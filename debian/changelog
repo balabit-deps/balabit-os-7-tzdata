@@ -1,3 +1,12 @@
+tzdata (2018f-0ubuntu0.18.04) bionic; urgency=medium
+
+  * New upstream version, affecting the following future timestamp:
+    - Volgograd moves from +03 to +04 on 2018-10-28.
+    - Fiji ends DST 2019-01-13, not 2019-01-20.
+    - Most of Chile changes DST dates, effective 2019-04-06.
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Wed, 24 Oct 2018 14:11:24 -0600
+
 tzdata (2018e-0ubuntu0.18.04) bionic; urgency=medium
 
   * New upstream release
