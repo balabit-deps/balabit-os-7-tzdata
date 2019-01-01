@@ -1,3 +1,14 @@
+tzdata (2018i-0ubuntu0.18.04) bionic; urgency=medium
+
+  * New upstream version, affecting past and future timestamps:
+    - São Tomé and Príncipe switches from +01 to +00 on 2019-01-01.
+    - Qyzylorda, Kazakhstan moved from +06 to +05 on 2018-12-21.
+    - A new zone Asia/Qostanay has been added, because Qostanay,
+      Kazakhstan didn't move.
+    - Metlakatla, Alaska observes PST this winter only.
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Mon, 31 Dec 2018 22:05:44 -0700
+
 tzdata (2018g-0ubuntu0.18.04) bionic; urgency=high
 
   * New upstream version, affecting the following timestamp:
