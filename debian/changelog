@@ -1,3 +1,11 @@
+tzdata (2019a-0ubuntu0.18.04) bionic; urgency=medium
+
+  * New upstream version, affecting past and future timestamps:
+    - Palestine "springs forward" on 2019-03-30 instead of 2019-03-23.
+    - Metlakatla "fell back" to rejoin Alaska Time on 2019-01-20 at 02:00.
+
+ -- Brian Murray <brian@ubuntu.com>  Tue, 16 Apr 2019 15:09:13 -0700
+
 tzdata (2018i-0ubuntu0.18.04) bionic; urgency=medium
 
   * New upstream version, affecting past and future timestamps:
