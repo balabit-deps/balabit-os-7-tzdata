@@ -1,3 +1,13 @@
+tzdata (2019c-0ubuntu0.18.04) bionic; urgency=medium
+
+  * New upstream version, affecting the following future timestamps:
+    - Fiji's next DST transitions will be 2019-11-10 and 2020-01-12
+      instead of 2019-11-03 and 2020-01-19.
+    - Norfolk Island will observe Australian-style DST starting in
+      spring 2019.  The first transition is on 2019-10-06.
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Fri, 20 Sep 2019 03:11:15 -0600
+
 tzdata (2019b-0ubuntu0.18.04) bionic; urgency=medium
 
   * New upstream version, affecting the following past and future timestamps:
