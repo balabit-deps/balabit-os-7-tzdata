@@ -1,3 +1,12 @@
+tzdata (2020a-0ubuntu0.18.04) bionic; urgency=medium
+
+  * New upstream release (LP: #1878108), affecting past and future timestamps:
+    - Morocco springs forward on 2020-05-31, not 2020-05-24.
+    - Canada's Yukon advanced to -07 year-round on 2020-03-08.
+    - America/Nuuk renamed from America/Godthab.
+
+ -- Brian Murray <brian@ubuntu.com>  Thu, 07 May 2020 17:01:38 -0700
+
 tzdata (2019c-0ubuntu0.18.04) bionic; urgency=medium
 
   * New upstream version, affecting the following future timestamps:
