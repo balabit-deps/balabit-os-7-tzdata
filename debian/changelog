@@ -1,3 +1,16 @@
+tzdata (2020d-0ubuntu0.18.04) bionic; urgency=medium
+
+  * New upstream version (LP: #1901020), affecting past and future timestamps:
+    - Palestine ends DST earlier than predicted, on 2020-10-24.
+    - Fiji starts DST later than usual, on 2020-12-20.
+    - Revised predictions for Morocco's changes starting in 2023.
+    - Canada's Yukon changes to -07 on 2020-11-01, not 2020-03-08.
+    - Macquarie Island has stayed in sync with Tasmania since 2011.
+    - Casey, Antarctica is at +08 in winter and +11 in summer since 2018.
+  * Restore old SystemV timezones.
+
+ -- Brian Murray <brian@ubuntu.com>  Thu, 22 Oct 2020 14:18:51 -0700
+
 tzdata (2020a-0ubuntu0.18.04) bionic; urgency=medium
 
   * New upstream release (LP: #1878108), affecting past and future timestamps:

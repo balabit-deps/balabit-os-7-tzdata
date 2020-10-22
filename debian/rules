@@ -15,8 +15,7 @@ TIMEZONES := africa \
              etcetera \
              factory \
              backward \
-             systemv \
-	     pacificnew
+             systemv
 
 TEMPLATES_FILE := $(CURDIR)/debian/tzdata.templates
 TEMPLATES_AREAS := Africa \

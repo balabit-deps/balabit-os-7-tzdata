@@ -1,1 +1,2 @@
-systemv.diff -p1
+readd-systemv.diff
+make-systemv.patch
