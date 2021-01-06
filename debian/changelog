@@ -1,3 +1,10 @@
+tzdata (2020f-0ubuntu0.18.04) bionic; urgency=medium
+
+  * New upstream version (LP: #1909698), affecting the following timestamp:
+    - Volgograd switches to Moscow time on 2020-12-27 at 02:00.
+
+ -- Brian Murray <brian@ubuntu.com>  Wed, 06 Jan 2021 08:11:57 -0800
+
 tzdata (2020d-0ubuntu0.18.04) bionic; urgency=medium
 
   * New upstream version (LP: #1901020), affecting past and future timestamps:
